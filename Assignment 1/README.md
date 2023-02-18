@@ -7,15 +7,15 @@
 
 # The assignment has four components as follows:
 - Installing and Testing xv6
-- System calls:
+- Implement the following system calls:
   - toggle()
   - print_count()
   - ps()
   - add()
-- Inter Process Communication
+- Implement the following Inter Process Communication models:
   - Unicast
   - Multicast
-- Distributed Algorithm
+- Distributed Algorithms:- Compute sum and variance in a distributed manner.
   - Using unicast communication model.
   - Using multicast communication model.
   
