@@ -5,4 +5,4 @@
 - We run Xv6 on QEMU virtual machine.
 
 
-[embed]https://github.com/Vinit-Chandak/ELL783-Operating-Systems/blob/main/Assignment%201/OS_A1_easy.pdf[/embed]
+[embed] https://github.com/Vinit-Chandak/ELL783-Operating-Systems/blob/main/Assignment%201/OS_A1_easy.pdf [/embed]
